@@ -1,0 +1,6 @@
+Guepard
+Renard
+Hyene
+Lion
+Loup
+Tigre
